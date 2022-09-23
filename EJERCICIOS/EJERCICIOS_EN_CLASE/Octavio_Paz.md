@@ -26,21 +26,19 @@ Agrega aqui el código de la página de Octavio Paz en HTML Y CSS
         es un hacer.<br>
         Es un hacer<br>
         que es un decir<br>
-        La poes<br>
-        se dice y se oy<br>
+        La poesía<br>
+        se dice y se oye<br>
         es real<br>
-        Y apenas di<br>
+        Y apenas digo<br>
         es real<br>
-        se disipa.b<br>
-        ¿Así es más rea<br>
-        Idea palpable,b<br>
+        se disipa.<br>
+        ¿Así es más real?<br>
+        Idea palpable,<br>
         palabra<br>
         impalpable:<br>
-        la poes<br>
+        la poesía<br>
         va y viene</p> <br>
-        entre lo que esb<br><br>
         entre lo que es<br>
-        y lo que no es.<br>
         y lo que no es.<br>
         Teje reflejos<br>
         y los desteje.<br>
