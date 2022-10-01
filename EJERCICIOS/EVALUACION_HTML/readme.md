@@ -6,10 +6,13 @@ Indicaciones: Pedir responder cada una de las preguntas de manera breve y clara.
 Preguntas:
 
 1. ¿Qué es el hipertexto? (valor 1.0)
+Es un conjunto estructurado de textos,graficos,videos,etc unidos por enlaces y conexiones lógicas. 
 
 2. ¿Qué es la hipermedia? (valor 1.0)
+Es un conjunto estructurado de diversos medios como textos, gráficos, imágenes  y sonidos unidos entre sí por enlaces y conexiones lógicas para la transmisión de información
 
 3. ¿Qué características tiene un lenguaje de etiquetas? (valor 1.0)
+
 
 4. ¿Cuáles son las ventajas que introduce HTML5? (valor 1.0)
 
