@@ -36,3 +36,14 @@
     
 </body>
 </html>
+
+
+body{
+    background-color: aquamarine;
+}
+header{
+    background-color: black;
+}
+h1{
+    color:aquamarine;
+}
