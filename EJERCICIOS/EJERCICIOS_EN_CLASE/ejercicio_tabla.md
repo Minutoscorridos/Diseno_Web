@@ -16,4 +16,22 @@ Realiza la siguiente tabla
     <td>Omar Montoya</td>
     <td>55123456</td>
     <td>55654321</td>
-  </tr>  
+  </tr>
+  
+  <tr>
+    <td>Juan Pérez</td>
+    <td>55123456</td>
+    <td>55654321</td>
+  </tr>
+  
+   <tr>
+    <td>Juan Chavez</td>
+    <td>55123456</td>
+    <td>55654321</td>
+  </tr>
+  
+   <tr>
+    <td>MIguel López</td>
+    <td>55123456</td>
+    <td>55654321</td>
+  </tr>
