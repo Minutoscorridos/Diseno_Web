@@ -9,7 +9,7 @@ Realiza la siguiente tabla
   
   <tr>
     <th>Nombre</th>
-    <th>Telefonos</th>
+    <th colspan=2>Telefonos</th>
   </tr>
   
   <tr>
