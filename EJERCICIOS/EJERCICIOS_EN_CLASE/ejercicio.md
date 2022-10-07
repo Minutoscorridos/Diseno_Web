@@ -25,13 +25,17 @@
     </header>
     <main>
         <h2>Encabezado nivel 2</h2>
+        <p>Aqui va el texto del parrafo 1</p>
+        <p>Aqui va el texto del segundo parrafo</p>
+        
+        
 
         
 
 
     </main>
     <footer>
-
+        <p>Sección de información de contacto, derecho de autor, etc.
     </footer>
     
 </body>
