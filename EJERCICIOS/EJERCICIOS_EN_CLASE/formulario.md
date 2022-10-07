@@ -1,9 +1,11 @@
 ![image](https://user-images.githubusercontent.com/91554777/170103427-2b681a6e-05b6-49f3-834b-c188ebf12fbb.png)
 
 <body>
+  <p
   <form>
+   <bold> Formato de Registro </bold><br>
     <fieldset>
-      <legend>Formato de Registro</legend><br>
+      <legend>Información personal del usuario</legend><br>
       <label for="name">Introduce tu nombre completo</label>
       <input type="text" id="name" name="name" maxlenght="15" ><br>
       <label for="email">Introduce tu email</label><br>
