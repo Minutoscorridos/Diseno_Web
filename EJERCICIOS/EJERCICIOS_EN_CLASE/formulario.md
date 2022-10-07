@@ -3,7 +3,7 @@
 <body>
   <form>
     <fieldset>
-      <legend>Formato de Registro</legend>
+      <legend>Formato de Registro</legend><br>
       <label for="name">Introduce tu nombre completo</label>
       <input type="text" id="name" name="name" maxlenght="15" ><br>
       <label for="email">Introduce tu email</label>
