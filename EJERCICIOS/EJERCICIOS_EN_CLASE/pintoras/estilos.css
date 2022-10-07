@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+body{
+    background: linear-gradient( pink, rgb(243, 236, 237));
+}
+/* se pinta el letrero */
+h1{
+    font-family:"Reboto", sans-serif;
+    font-size: 50px;
+    text-shadow: 3px 3px 3px rgb(226, 25, 199);
+    text-align:center;
+    font-size: 25px;
+    letter-spacing:7px;
+    /*border: 3px solid  pink  ;
+    padding: ;*/
+}
+/*  */
+p{ 
+    text-align: ;
+    font-weight:bold ;
+    
+
+}
+
+.derecha{
+    text-align: right;
+    font-style: italic;
+}
+h3{
+    color: rgb(11, 11, 141);
+}
+h4{
+    color:rgb(138, 43, 226)
+}
+
+h5{
+    color:rgb(252, 8, 170)
+}
+/* cuadros con imagen */
+div{
+    background-color: rgb(146, 86, 202);
+    }
+
+.caja{
+    border:3px solid rgb(197, 36, 63);
+    box-shadow: 5x 5px rgb(61, 2, 12);
+}
+.punteado{
+    border: 7px dotted rgb(77, 5, 17);
+}
+    
+    
+
+
