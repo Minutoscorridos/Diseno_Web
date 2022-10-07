@@ -4,7 +4,7 @@ Realiza la siguiente tabla
 
 <table border=1>
   <tr>
-    <th>Directorio</th>
+    <th colspan=3>Directorio</th>
   </tr>
   
   <tr>
