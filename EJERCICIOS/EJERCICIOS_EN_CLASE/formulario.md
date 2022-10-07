@@ -3,7 +3,7 @@
 <body>
   <p
   <form>
-   <bold> Formato de Registro </bold><br>
+   <bold> Formato de Registro </bold>
     <fieldset>
       <legend>Información personal del usuario</legend><br>
       <label for="name">Introduce tu nombre completo</label>
