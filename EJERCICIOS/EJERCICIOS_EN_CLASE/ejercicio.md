@@ -9,6 +9,7 @@
 </head>
 <body>
     <header>
+        <section>
         <h1>ENCABEZADO NIVEL 1
 
         </h1>
@@ -21,21 +22,29 @@
                 
             </ul>
         </nav>
-
+        </section>
     </header>
     <main>
+        <section>
         <h2>Encabezado nivel 2</h2>
-        <p>Aqui va el texto del parrafo 1</p>
-        <p>Aqui va el texto del segundo parrafo</p>
+        <p>Aquí va el texto del primer párrafo</p>
+        <p>Aquí va el texto del segundo párrafo</p>
+        </section>
         
-        
+        <section>
+            <h2>Apartado</h2>
+            <h3>Elige una opción</h3>
+             <form action="">
+                <input type="radio" name="opcion">Opción 1 <br>
+                <input type="radio" name="opcion">Opción 2 <br>
+                <input type="radio" name="opcion">Opción 3 <br>
+                <input type="submit" value="Enviar">
+            </form>    
+        </section>    
+    </main>    
 
-        
-
-
-    </main>
     <footer>
-        <p>Sección de información de contacto, derecho de autor, etc.
+        <p>Sección de información de contacto, derechos de autor, etc.</p>
     </footer>
     
 </body>
