@@ -11,7 +11,9 @@
       <label for="email">Introduce tu email</label><br>
       <input type="email" id="email" name="email" placeholder="xxxx@xxxx.xxxx required><br>
       <label for="password">Introduce tu contraseña</label><br> 
-      <input type="email" id="email" name="email" placeholder="xxxx@xxxx.xxxx required><br>                     
+      <input type="email" id="email" name="email" placeholder="xxxx@xxxx.xxxx required><br> 
+      <label for="password">Confirma tu contraseña</label><br> 
+      <input type="email" id="email" name="email" placeholder="xxxx@xxxx.xxxx required><br> 
       <label for="gender">Genero</label><br>
       <input type="radio" id="gender" name="gender" value="male">Masculino<br>
       <input type="radio" id="gender" name="gender" value="female">Femenino<br>
