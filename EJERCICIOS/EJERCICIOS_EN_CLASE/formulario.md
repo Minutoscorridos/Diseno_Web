@@ -4,11 +4,11 @@
   <form>
     <fieldset>
       <legend>Formato de Registro</legend><br>
-      <label for="name">Introduce tu nombre completo</label>
+      <label for="name">Introduce tu nombre completo</label><br>
       <input type="text" id="name" name="name" maxlenght="15" ><br>
-      <label for="email">Introduce tu email</label>
+      <label for="email">Introduce tu email</label><br>
       <input type="email" id="email" name="email" placeholder="xxxx@xxxx.xxxx required><br>
-      <label for="password">Introduce tu contraseña</label> 
+      <label for="password">Introduce tu contraseña</label><br> 
       <input type="email" id="email" name="email" placeholder="xxxx@xxxx.xxxx required><br>                     
       <label for="gender">Genero</label><br>
       <input type="radio" id="gender" name="gender" value="male">Masculino<br>
