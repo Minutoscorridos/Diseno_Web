@@ -106,7 +106,7 @@ una hoja de estilo externa? (valor 0.25)
   
           a) style:bold;
           b) font:bold;
-          c) font-weight:bold;
+          c) font-weight:bold;  #
   
 16. ¿Cómo se muestra un borde como este? (valor 0.25)
 
