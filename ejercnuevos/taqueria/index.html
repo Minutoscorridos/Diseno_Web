@@ -29,7 +29,7 @@
             </ol>
             <h3>TACOS SENCILLOS</h3>
             <ul>
-                <Li>suadera ................$15</Li>
+                <Li>suadero ................$15</Li>
                 <li>Bisteck.................$15</li>
                 <li>Combinados..............$15</li>
                 <li>Pastor..................$15</li>
@@ -37,30 +37,44 @@
             </ul>
             <!-- EMPIEZA LISTA DESCRIPTIVA -->
             <h3>ESPECIALIDADES</h3>
-            <Dl>
                 <dt>COSTRA</dt>
-                <dd>CON QUESO.(Carne con queso fundido)............$35<dd>
+                <dd>CON QUESO.(Carne con queso fundido)............$35</dd>
                 <dt>MEXICANO</dt>
                 <dd>CON GUACAMOLE  (Con aguacate y picante)........$40</dd>
                 <dt>MARINO</dt>
-                <Dd>CAMARONES  (Canarones y lechuga)...............$60</Dd>
+                <dd>CAMARONES  (Camnarones y lechuga)...............$60</dd>
                 <dt>VEGANO</dt>
-                <Dd>VEGETARIANO (Champiñones, jitomate y aguacate)...........$60<Dd>
-                    <!-- faltan las bebidas -->
-            </Dl>
+                <dd>VEGETARIANO (Champiñones, jitomate y aguacate)...........$60</dd>
+                   
+             <h3> BEBIDAS</h3>
+                <dt>AGUAS DE FRUTAS.</dt>
+                <dd>LIMÓN.........$20</dd>
+                <dd>JAMAICA.......$20</dd>
+                <dd>TAMARINDO.....$20.</dd>
+                <dd>FRUTA DE TEMPORADA....$18</dd>
+                </dt>
+                <dt>CERVEZAS
+                <dd>cERVEZA DE LA CASA......$100   </dd>
+                <dd> BERLINESA.......$140</dd>
+                <dd>CORONITA...........$50</dd>
+                <dd>TKT......50</dd>                    
+                </dt>         
+            
+            
            <form name="contact" netlify>
                 nombre: <input type="text" placeholder="ejemplo María" minlength="3" maxlength="20" size="50" required name="nombre">
                 apellido: <input type="text" placeholder="ejemplo María" minlength="3" maxlength="20" size="50" name="apellido">
                 teléfono: <input type="tel" placeholder="10 dígitos" minlength="10" maxlength="10" required name="telefono"> <br><br>
                 correo electronico <input type="email" placeholder="ejempl@ejemplo.com" id="" name="correo"><br><br>
-                ¿Pasas por el pedido o te lo enviamos? <br><input type="radio" name="Envío" value="Envió">Envío
+                <p>¿Pasas por el pedido o te lo enviamos?</p> <br><input type="radio" name="Envío" value="Envió">Envío
                 <input type="radio" name="Envío" value="recoge"> Recolecta <br><br>
                 si te lo enviamos pon tu dirección <input type="text" size="100" placeholder="calle numero colonia alcaldía CP"><br><br>
                 Si pasas poe él, programa tu pedido <input type="date" name="fecha" min="2023-09-28" max="2023-12-31" > <br><br>
                 hora <input type="time" name="hora"> <br><br>
 
-                Orden 1: <br>
+              
                 <select name="Orden 1" id="" > 
+                    <p>Orden 1: </p><br>
                     <option value="Suadero"> Suadero </option>
                     <option value="Bisteck">Bisteck</option>
                     <option value="Combinados">Combinados</option>
@@ -68,33 +82,37 @@
                     
                                  
                 </select>
-                ¿Cuántos? <input type="number" min="0" max="50"> 
+               <p> ¿Cuántos? </p> <br>
+                <input type="number" min="0" max="50"> 
                 <input type="checkbox" name="cilantro" id="" value="sí"> cilantro
                 <input type="checkbox" name="cebolla" id="" value="si"> cabolla
                 <input type="checkbox" name="salsa_verde" id="" value="si">salsa verde
                 <input type="checkbox" name="salsa roja" id="">salsa roja <br><br>
-             
-                Orden 2: <br>
-                <select name="Orden 1" id="" > 
+               
+                <select name="Orden 2" id="" > 
+                <p>Orden 2: </p><br>
                 <option value="Suadero"> Suadero </option>
                 <option value="Bisteck">Bisteck</option>
                 <option value="Combinados">Combinados</option>
                 <option value="Pastor"> Pastor</option> <br><br>
 
-                ¿Cuántos? <input type="number" min="0" max="50"> 
+                <p>¿Cuántos? </p><br>
+                <input type="number" min="0" max="50"> 
                 <input type="checkbox" name="cilantro" id="" value="sí"> cilantro
                 <input type="checkbox" name="cebolla" id="" value="si"> cabolla
                 <input type="checkbox" name="salsa_verde" id="" value="si">salsa verde
                 <input type="checkbox" name="salsa roja" id="">salsa roja <br><br><br>
                        
-                Orden 3: <br>
+               
                 <select name="Orden 1" id="" > 
+                <p> Orden 3: </p><br>    
                 <option value="Suadero"> Suadero </option>
                 <option value="Bisteck">Bisteck</option>
                 <option value="Combinados">Combinados</option>
                 <option value="Pastor"> Pastor</option> <br><br>
 
-                ¿Cuántos? <input type="number" min="0" max="50"> 
+                <p>¿Cuántos? </p><br>
+                <input type="number" min="0" max="50"> 
                 <input type="checkbox" name="cilantro" id="" value="sí"> cilantro
                 <input type="checkbox" name="cebolla" id="" value="si"> cabolla
                 <input type="checkbox" name="salsa_verde" id="" value="si">salsa verde
